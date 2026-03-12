@@ -4,13 +4,13 @@
 ### Materiais
 - [Notas de aula](Aula_03_Introducao_ao_computador.pdf)
   
-<!--
+
 ###  Materiais extras
 
-#### Vídeo 1 - Vídeo curto Aula Introdução
-[![Introdução - Aula Rapida](CAPA_AULAS.png)](https://youtu.be/1rb9JQev7L4)
+#### Vídeo 1 - Vídeo curto Aula Conversão entre bases e operações binárias
+[![Conversão entre Bases e operações binárias - Aula Rapida](CAPA_AULAS.png)](https://youtu.be/OePFYE8rQ2U)
 
--->
+
 
 ## Desenvolvimento Aula 
 
