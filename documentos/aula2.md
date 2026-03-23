@@ -21,3 +21,9 @@
 - [ ]  Conversão Binário - Hexadecimal
 - [ ]  Docência e Sistema de Numeração
 - [ ]  Atividade em dupla
+
+## Habilidades BNCC-Computação desenvolvidas nesta aula
+- EF01CO05 — representar informação usando diferentes codificações.
+- EF03CO05 — compreender que dados são estruturados em formatos específicos dependendo da informação armazenada.
+- EF04CO04 — entender que, para guardar, manipular e transmitir dados, deve-se codificá-los de alguma forma que seja compreendida pela máquina.
+- PRINCIPAL - EF04CO05 — codificar diferentes informações para representação em computador, incluindo representações binárias e outras formas digitais.
