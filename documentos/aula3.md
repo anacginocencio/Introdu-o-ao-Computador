@@ -24,3 +24,10 @@
 - [ ]  Operações Binárias: Soma e Subtração
 - [ ]  O ciclo completo da informação
 - [ ]  Atividade Avaliativa -  N1 – 20 pts: Exercícios práticos de conversão e representação numérica em sala
+
+## Habilidades BNCC - Desenvolvidas nesta Aula
+
+- EF01CO05 — representar informação usando diferentes codificações.
+- EF03CO05 — compreender que dados são estruturados em formatos específicos dependendo da informação armazenada.
+- EF04CO04 — entender que, para guardar, manipular e transmitir dados, deve-se codificá-los de alguma forma que seja compreendida pela máquina.
+- EF04CO05 — codificar diferentes informações para representação em computador, incluindo representações binárias e outras formas digitais.
